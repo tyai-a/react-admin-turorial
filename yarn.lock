@@ -1060,6 +1060,13 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
+"@bicstone/ra-language-japanese@^3.18.3":
+  version "3.18.3"
+  resolved "https://registry.yarnpkg.com/@bicstone/ra-language-japanese/-/ra-language-japanese-3.18.3.tgz#4c6d876dd9d70be31b56936c56d013fa779f57b1"
+  integrity sha512-4EIz3m+p/zf9KbyrUH7Z7MjWXynCzu8HPqYI6rnSDD5w/D79udLbbegCYpq4Aqzakot0gktUZaM6SkB96VhLPw==
+  dependencies:
+    ra-core ">=2.0.0-alpha1"
+
 "@csstools/normalize.css@*":
   version "12.0.0"
   resolved "https://registry.yarnpkg.com/@csstools/normalize.css/-/normalize.css-12.0.0.tgz#a9583a75c3f150667771f30b60d9f059473e62c4"
@@ -7262,7 +7269,7 @@ quick-lru@^5.1.1:
   resolved "https://registry.yarnpkg.com/quick-lru/-/quick-lru-5.1.1.tgz#366493e6b3e42a3a6885e2e99d18f80fb7a8c932"
   integrity sha512-WuyALRjWPDGtt/wzJiadO5AXY+8hZ80hVpe6MyivgraREW751X3SbhRvG3eLKOYN+8VEvqLcf3wdnt44Z4S4SA==
 
-ra-core@^3.19.7:
+ra-core@>=2.0.0-alpha1, ra-core@^3.19.7:
   version "3.19.7"
   resolved "https://registry.yarnpkg.com/ra-core/-/ra-core-3.19.7.tgz#c7e9313000434dd991d06846ef154b5dfed6a650"
   integrity sha512-ar85cQ7vtIIrb6Ijj8Om+IkuB4i4uuoMcfvDgLxaNOEyImq+n3osVHi93FkZKpdZAHQ9qKnkN83SODhoRdaGfg==
